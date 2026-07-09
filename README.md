@@ -1,3 +1,4 @@
+
 # Hazy Readme Cards
 
 A collection of dynamic, terminal-inspired SVG cards designed to build a striking, cohesive GitHub profile README. Powered by Vercel Edge Functions, these cards render instantly and provide live stats, animated headers, and a unified design system.
@@ -19,7 +20,7 @@ To use these cards in your own GitHub `README.md`, you can host the project on y
 ### 1. Header Card
 Features an animated typing effect, a simulated terminal window, and your role/location details.
 
-```markdown
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://your-deployment-url.vercel.app/api/header?theme=dark">
@@ -27,8 +28,6 @@ Features an animated typing effect, a simulated terminal window, and your role/l
     <img src="https://your-deployment-url.vercel.app/api/header?theme=dark" alt="Header">
   </picture>
 </div>
-```
-
 ### 2. Profile & GitHub Stats Card
 Displays a short "About Me" section on the left and live GitHub statistics (Stars, Commits, PRs, Issues) on the right.
 
