@@ -1,121 +1,78 @@
 
+
+<h1 align="center">Hi , I'm Temitope <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/temitope-apatira"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+
+
+
+
+<h4 align="center">
+I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about design, coding, and web technologies❤️. <br />
+	I love to create clean and dynamic user interfaces. I'd love to learn a lot network and grow as a developer while also supporting other open source projects.
+</h4>
+<br>
+
+<hr/> 
+
 <div align="center">
-  <img height= "400" width="100%" src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
+  <img  src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
        alt="Mario Bross Programando" />
 </div>
 
+## 🔥 Streak Stats & Languages
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=temitope-apatira&theme=algolia" alt="temitope" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temitope-apatira&theme=algolia&layout=compact" alt="temitope" /></p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Iave Hernández!</h1></summary>
-  </ul>
-</div>
+<br>
+<hr/>
 
+## 🏆 Trophies
+<p align="center"> <a href="https://github.com/temitope-apatira"><img
+      src="https://github-profile-trophy.vercel.app/?username=temitope-apatira&row=1&column=3&theme=algolia" alt="temitope" /></a>  </p>
 
+<!-- algolia -->
+<br>
+<hr/>
 
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
+## ⚡ Profile Summary
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<a href="https://github.com/temitope-apatira"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temitope-apatira&theme=tokyonight&hide_border=true"  width="520" alt="temitope" /></a>
+<p/>
+
+<hr/>
+
+<!-- ## 🐍
+  <br>
+  <p align="center">
+  <img src="https://github.com/temitope-apatira/temitope-apatira/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+
+<hr/> -->
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:temitopeapatira@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
+	<a href="https://in.linkedin.com/in/temitope-apatira-22520516b"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://twitter.com/patra_tee?s=11&t=tXHj7BtFcg5gYHvfdBWQtQ"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" title='Twitter' alt="twitter"/></a>
+  <a href="https://instagram.com/tee_patraa?igshid=YmMyMTA2M2Y="><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" title='Instagram' alt="Instagram"/></a>
+	
+	
+</p>
+<hr/>
+<br>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/temitope-apatira/count.svg" />  
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
