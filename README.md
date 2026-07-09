@@ -1,6 +1,8 @@
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img style="border-radius: 5%;" src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
+       alt="Mario Bross Programando" /></a>
+</div>
 
 
 <div id="user-content-toc">
@@ -11,10 +13,6 @@
 
 
 
-<div align="center">
-  <img style="width: 10" src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
-       alt="Mario Bross Programando" /></a>
-</div>
 
 
 
