@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img style="border-radius: 18px" src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
+  <img style="width: 10" src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
        alt="Mario Bross Programando" /></a>
 </div>
 
