@@ -47,6 +47,12 @@ Un desarrollador de aplicaciones web con un diseño limpio, organizado y eficien
 <p align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iavehernandez&theme=algolia" alt="temitope" /></p>
 
 
+## 	🚧 Proyectos
+
+🪙[Aplicación de Criptomonedas en tiempo Real](https://github.com/Iavehernandez/crypto-dashboard-app)
+	<p>Proyecto Final del Bootcamp Front-end en el cual use todas las tecnoloogías aprendidas. Tales como: HTML, CSS, STYLED-COMPONENTS, REACT, REDUX-TOOLIT Y JEST </p>
+
+
 <br>
 
 
