@@ -54,7 +54,7 @@ Un desarrollador de aplicaciones web con un diseño limpio, organizado y eficien
 	en el cual use todas las tecnoloogías aprendidas.
 	Tales como: HTML, CSS, STYLED-COMPONENTS, REACT, REDUX-TOOLIT Y JEST </p>
 
-	<img src="./crypto.png">
+<img src="./crypto.png" />
 
 
 <br>
