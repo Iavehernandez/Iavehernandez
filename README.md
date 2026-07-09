@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height= "200" width="400" src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
+  <img height= "250" src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
        alt="Mario Bross Programando" />
 </div>
 
