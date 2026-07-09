@@ -31,7 +31,7 @@ Features an animated typing effect, a simulated terminal window, and your role/l
 ### 2. Profile & GitHub Stats Card
 Displays a short "About Me" section on the left and live GitHub statistics (Stars, Commits, PRs, Issues) on the right.
 
-```markdown
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://your-deployment-url.vercel.app/api/profile?theme=dark">
@@ -39,7 +39,7 @@ Displays a short "About Me" section on the left and live GitHub statistics (Star
     <img src="https://your-deployment-url.vercel.app/api/profile?theme=dark" alt="Profile and Stats">
   </picture>
 </div>
-```
+
 
 ### 3. Skills & Stack Card
 Visualizes your proficiency in various technologies using physical-sheen progress bars and a grid of technology badges.
