@@ -1,15 +1,15 @@
-
+<div align="center">
+  <img  src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="85%" 
+       alt="Mario Bross Programando" />
+</div>
 
 <h1 align="center">Hola , Soy Iave! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/temitope-apatira"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
 
 
 
 
-<h4 align="center">
+
+<h4 align="justify">
 I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about design, coding, and web technologies❤️. <br />
 	I love to create clean and dynamic user interfaces. I'd love to learn a lot network and grow as a developer while also supporting other open source projects.
 </h4>
@@ -17,10 +17,7 @@ I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about
 
 <hr/> 
 
-<div align="center">
-  <img  src="https://i.pinimg.com/originals/d0/df/02/d0df0254a8b1ece19f043b2087d0f3ad.gif"
-       alt="Mario Bross Programando" />
-</div>
+
 
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=temitope-apatira&theme=algolia" alt="temitope" /></p>
