@@ -50,7 +50,11 @@ Un desarrollador de aplicaciones web con un diseño limpio, organizado y eficien
 ## 	🚧 Proyectos
 
 🪙[Aplicación de Criptomonedas en tiempo Real](https://github.com/Iavehernandez/crypto-dashboard-app)
-	<p>Proyecto Final del Bootcamp Front-end en el cual use todas las tecnoloogías aprendidas. Tales como: HTML, CSS, STYLED-COMPONENTS, REACT, REDUX-TOOLIT Y JEST </p>
+	<p>Proyecto Final del Bootcamp Front-end. El objetivo es realizar una Landing page y un Dashboard con proyecciones en tiempo real: precios, gráficas, movimientos de mercado y simulación de portafolio de inversión mediante una API  <br />
+	en el cual use todas las tecnoloogías aprendidas.
+	Tales como: HTML, CSS, STYLED-COMPONENTS, REACT, REDUX-TOOLIT Y JEST </p>
+
+	<img src="">
 
 
 <br>
