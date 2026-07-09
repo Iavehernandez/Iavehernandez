@@ -1,130 +1,123 @@
 
-# Hazy Readme Cards
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-A collection of dynamic, terminal-inspired SVG cards designed to build a striking, cohesive GitHub profile README. Powered by Vercel Edge Functions, these cards render instantly and provide live stats, animated headers, and a unified design system.
-
-## Features
-
-* **Terminal Aesthetic**: A consistent, hacker/developer-focused design with micro-typography, terminal dots, and cohesive visual rhymes.
-* **Light & Dark Mode**: Fully responsive to GitHub's theme settings. Uses dynamic coloring based on `?theme=light` or `?theme=dark` parameters.
-* **Live GitHub Stats**: Automatically fetches and caches your total stars, commits, pull requests, issues, and top languages.
-* **Animated Elements**: Includes SMIL animations like typing effects in the header and pulsing status dots.
-* **Edge Optimized**: Built on Vercel Edge Functions for zero-cold-start, lightning-fast rendering.
-
-## Live Preview & Usage
-
-To use these cards in your own GitHub `README.md`, you can host the project on your own Vercel account or use your deployed URL.
-
-*(Note: Replace `https://your-deployment-url.vercel.app` with your actual Vercel project URL).*
-
-### 1. Header Card
-Features an animated typing effect, a simulated terminal window, and your role/location details.
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://your-deployment-url.vercel.app/api/header?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://your-deployment-url.vercel.app/api/header?theme=light">
-    <img src="https://your-deployment-url.vercel.app/api/header?theme=dark" alt="Header">
-  </picture>
-</div>
-### 2. Profile & GitHub Stats Card
-Displays a short "About Me" section on the left and live GitHub statistics (Stars, Commits, PRs, Issues) on the right.
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://your-deployment-url.vercel.app/api/profile?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://your-deployment-url.vercel.app/api/profile?theme=light">
-    <img src="https://your-deployment-url.vercel.app/api/profile?theme=dark" alt="Profile and Stats">
-  </picture>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+  </ul>
 </div>
 
 
-### 3. Skills & Stack Card
-Visualizes your proficiency in various technologies using physical-sheen progress bars and a grid of technology badges.
-
-```markdown
+<!--- snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://your-deployment-url.vercel.app/api/skills?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://your-deployment-url.vercel.app/api/skills?theme=light">
-    <img src="https://your-deployment-url.vercel.app/api/skills?theme=dark" alt="Skills and Tech Stack">
-  </picture>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
-```
 
-### 4. Footer / Links Card
-A sleek footer for your social and professional links, featuring a pulsing "Open For Work" (OFW) indicator.
 
-```markdown
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://your-deployment-url.vercel.app/api/footer?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://your-deployment-url.vercel.app/api/footer?theme=light">
-    <img src="https://your-deployment-url.vercel.app/api/footer?theme=dark" alt="Footer Links">
-  </picture>
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
-```
 
-### 5. Banner Card
-A minimal call-to-action banner.
 
-```markdown
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://your-deployment-url.vercel.app/api/banner?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://your-deployment-url.vercel.app/api/banner?theme=light">
-    <img src="https://your-deployment-url.vercel.app/api/banner?theme=dark" alt="Banner">
-  </picture>
-</div>
-```
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Local Development
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Hazy019/hazy-readme-cards.git
-   cd hazy-readme-cards
-   ```
-
-2. **Install Vercel CLI (if not already installed):**
-   ```bash
-   npm i -g vercel
-   ```
-
-3. **Run the local development server:**
-   ```bash
-   vercel dev
-   ```
-   *The server will start, usually at `http://localhost:3000`.*
-
-4. **Environment Variables (Optional but recommended):**
-   For the `api/profile.js` card to fetch GitHub stats reliably without hitting rate limits, you should set a `GITHUB_TOKEN` environment variable.
-   Create a `.env` file in the root:
-   ```env
-   GITHUB_TOKEN=your_github_personal_access_token_here
-   ```
-
-## Deployment
-
-This project is configured to deploy directly to Vercel as Edge Functions.
-
-1. Push your code to a GitHub repository.
-2. Go to your [Vercel Dashboard](https://vercel.com/dashboard) and click **Add New... > Project**.
-3. Import your GitHub repository.
-4. **Important:** Under Environment Variables, add your `GITHUB_TOKEN` so the profile stats can be fetched via the GitHub GraphQL/REST APIs.
-5. Click **Deploy**.
-
-## Customization
-
-To personalize the cards for your own profile, you will need to edit the source files in the `api/` directory:
-
-*   **`api/header.js`**: Update the `Kyrell Santillan` text, your roles, and the animated typing sentences in the `lines` array.
-*   **`api/profile.js`**: Change the `USERNAME` constant at the top of the file to your GitHub username. Update the `ABOUT_LINES` array with your own bio. Update the location and status tags.
-*   **`api/skills.js` / `api/stack.js`**: Update the `skills` array with your proficiency percentages and the `tags` array with your technology stack.
-*   **`api/footer.js`**: Update the `LINKS` array with your own URLs and update the brand name at the bottom right.
-
-## License
-
-This project is open-source and available under the MIT License. Feel free to fork, customize, and use it for your own GitHub profile!
