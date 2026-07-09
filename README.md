@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="85%" 
+  <img  src="https://media.licdn.com/dms/image/v2/D4D12AQFqLq77YAos7g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713144519479?e=1785369600&v=beta&t=LiV2SwB9krB9wXc9zC0YTCMWgEWEPUQBTdnAucdpjNE" 
        alt="Mario Bross Programando" />
 </div>
 
@@ -10,66 +10,46 @@
 
 
 <h4 align="justify">
-I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about design, coding, and web technologies❤️. <br />
-	I love to create clean and dynamic user interfaces. I'd love to learn a lot network and grow as a developer while also supporting other open source projects.
+Soy desarrollador Front End originario de Puebla México , Desde niño he sido apasionado con la tecnología y las computadoras. ❤️ <br />
+Un desarrollador de aplicaciones web con un diseño limpio, organizado y eficiente. Además siempre estoy aprendiendo y me encanta tomar nuevos desfíos. 🚀
 </h4>
+
+💡 &nbsp;Siempre aprendiendo cosas nuevas.\
+🎓 &nbsp;Estudio el Bootcamp Fullstack Python y la licenciatura en Administración de empresas\
+🌱 &nbsp;Actualmente estoy estudiando Backend\
+✍️ &nbsp;En mi tiempo libre hago consultorías empresariales, de marketing y digitales\
+💬 &nbsp;Experiencia de 1 año en Front End.\
 <br>
 
-<hr/> 
-
-
-
-## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=temitope-apatira&theme=algolia" alt="temitope" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temitope-apatira&theme=algolia&layout=compact" alt="temitope" /></p>
-
-<br>
-<hr/>
-
-## 🏆 Trophies
-<p align="center"> <a href="https://github.com/temitope-apatira"><img
-      src="https://github-profile-trophy.vercel.app/?username=temitope-apatira&row=1&column=3&theme=algolia" alt="temitope" /></a>  </p>
-
-<!-- algolia -->
-<br>
-<hr/>
-
-## ⚡ Profile Summary
+## 🙋‍♀️ Contáctame
 <p align="center">
-<a href="https://github.com/temitope-apatira"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temitope-apatira&theme=tokyonight&hide_border=true"  width="520" alt="temitope" /></a>
-<p/>
-
-<hr/>
-
-<!-- ## 🐍
-  <br>
-  <p align="center">
-  <img src="https://github.com/temitope-apatira/temitope-apatira/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
-<hr/> -->
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:temitopeapatira@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
-	<a href="https://in.linkedin.com/in/temitope-apatira-22520516b"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/patra_tee?s=11&t=tXHj7BtFcg5gYHvfdBWQtQ"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" title='Twitter' alt="twitter"/></a>
-  <a href="https://instagram.com/tee_patraa?igshid=YmMyMTA2M2Y="><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" title='Instagram' alt="Instagram"/></a>
+	<a href="mailto:iavemoraleshernandez@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title='Gmail' alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/iave-hernandez-9a592a248/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title='LinkedIn' alt="LinkedIn"/></a>
+  	<a href="https://instagram.com/tee_patraa?igshid=YmMyMTA2M2Y="><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title='WhatsApp' alt="Whatsapp"/></a>
+	<img width="40"src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"  alt="apreton de manos"/>
 	
 	
 </p>
-<hr/>
+
 <br>
+
+
+
+## 💻 Tecnologías
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,styledcomponents,git,github,netlify,firebase,jquery,nodejs,ts,tailwind,react,redux,jest" />
+  </a>
+</p>
+
+
+<p align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iavehernandez&theme=algolia" alt="temitope" /></p>
+
+
+<br>
+
+
+
   
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/temitope-apatira/count.svg" />  
-</p>
-
-
-
 
