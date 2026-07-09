@@ -25,7 +25,7 @@ Un desarrollador de aplicaciones web con un diseño limpio, organizado y eficien
 <p align="center">
 	<a href="mailto:iavemoraleshernandez@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title='Gmail' alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/iave-hernandez-9a592a248/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title='LinkedIn' alt="LinkedIn"/></a>
-  	<a href="https://instagram.com/tee_patraa?igshid=YmMyMTA2M2Y="><img  src="https://wa.me/52[2225123182]" title='WhatsApp' alt="Whatsapp"/></a>
+  	<a href="https://wa.me/52[2225123182]"><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title='WhatsApp' alt="Whatsapp"/></a>
 	<img width="40"src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"  alt="apreton de manos"/>
 	
 	
