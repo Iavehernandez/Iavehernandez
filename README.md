@@ -1,6 +1,6 @@
 <div align="center">
-  <img  src="https://media.licdn.com/dms/image/v2/D4D12AQFqLq77YAos7g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713144519479?e=1785369600&v=beta&t=LiV2SwB9krB9wXc9zC0YTCMWgEWEPUQBTdnAucdpjNE" 
-       alt="Mario Bross Programando" />
+  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c5OTd3YTh5N2Nwem43dnZlM2hsbzF0cjhsdTF6enRrY3U5ZWQ4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ggbCzAotIx43ey4/giphy.gif" 
+       alt="Perro Programando" />
 </div>
 
 <h1 align="center">Hola , Soy Iave! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
