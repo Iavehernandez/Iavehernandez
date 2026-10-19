@@ -39,7 +39,7 @@ Un desarrollador de aplicaciones web con un diseño limpio, organizado y eficien
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,styledcomponents,git,github,netlify,firebase,jquery,nodejs,ts,tailwind,react,redux,jest,python,django" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,styledcomponents,git,github,netlify,firebase,jquery,nodejs,ts,tailwind,react,redux,jest,python,django,anaconda,docker" />
   </a>
 </p>
 
